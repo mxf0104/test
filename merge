@@ -2,4 +2,8 @@ add 1 on master branch
 add 3 on master branch
 add 2 on new branch
 add 4 on master branch
+<<<<<<< HEAD
 add 6 on master branch
+=======
+add 5 on new branch
+>>>>>>> new
